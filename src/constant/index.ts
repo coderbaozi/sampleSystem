@@ -1,0 +1,6 @@
+export const LOGIN_TOKEN = 'token'
+export const CACHE_NAME = 'name'
+export const CACHE_PASSWORD = 'password'
+export const REMEMBER_PASSWORD = 'rememberPassword'
+export const LOGIN_USERINFO = 'userinfo'
+export const LOGIN_USERMENUS = 'usermenus'
